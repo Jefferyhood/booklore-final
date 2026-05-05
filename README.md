@@ -79,11 +79,17 @@ booklore-e2e-testing/
 ├── reports/              # Generated HTML reports
 ├── requirements.txt
 └── README.md
+
+
+
 💡 Key Takeaways
 Real-world testing often requires adapting tools based on project needs
 Cypress is great for simple flows, but Selenium provides deeper control for complex scenarios
 Proper test design and structure are just as important as the tools used
 Debugging failures is a critical part of building reliable test automation
+
+
+
 🔮 Future Improvements
 Add CI/CD integration (GitHub Actions)
 Expand test coverage (edge cases, negative testing)
